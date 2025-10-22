@@ -44,32 +44,11 @@ I am passionate about building clean, efficient, and user-friendly web applicati
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShehabGamal&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="ShehabGamal's GitHub Stats" />
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShehabGamal&layout=compact&langs_count=8&theme=tokyonight" alt="ShehabGamal's Top Languages" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShehabGamal&theme=tokyonight" alt="ShehabGamal's Contribution Streak" />
-</p>
-
-<br>
-
-## 📊 My GitHub Stats & Graphics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShehabGamal&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="ShehabGamal's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShehabGamal&layout=compact&langs_count=8&theme=tokyonight" alt="ShehabGamal's Top Languages" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShehabGamal&theme=tokyonight" alt="ShehabGamal's Contribution Streak" />
 </p>
 
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=tokyonight&row=1&column=7" alt="ShehabGamal's Trophies" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShehabGamal&theme=tokyonight" alt="ShehabGamal's Activity Graph" />
 </p>
 
 <br>
