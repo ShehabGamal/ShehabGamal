@@ -47,7 +47,7 @@ I am passionate about building clean, efficient, and user-friendly web applicati
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShehabGamal&layout=compact&langs_count=8&theme=tokyonight" alt="ShehabGamal's Top Languages" />
 </p>
 
-<p align="center" flexDirection>
+<p align="center" flexDirection="row">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=radical&rank=-?&title=Commits&no-frame=true" alt="ShehabGamal's Commits" />
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=radical&rank=-?&title=Repositories&no-frame=true" alt="ShehabGamal's Repositories" />
 </p>
