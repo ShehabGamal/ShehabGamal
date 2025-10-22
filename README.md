@@ -40,7 +40,7 @@ I am passionate about building clean, efficient, and user-friendly web applicati
 
 <br>
 
-## 📊 My GitHub Stats & Graphics
+## 📊 My GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShehabGamal&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="ShehabGamal's GitHub Stats" />
@@ -48,7 +48,9 @@ I am passionate about building clean, efficient, and user-friendly web applicati
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=tokyonight&row=1&column=7" alt="ShehabGamal's Trophies" />
+  ![Experience](https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=radical&rank=-?&title=MultiLanguage,Commits,Issues,PullRequest,Repositories,Reviews&no-frame=true)
+  ![Commits](https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=radical&rank=-?&title=Commits&no-frame=true)
+  ![Repositories](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&rank=-?&title=Repositories&no-frame=true)
 </p>
 
 <br>
