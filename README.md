@@ -48,9 +48,7 @@ I am passionate about building clean, efficient, and user-friendly web applicati
 </p>
 
 <p align="center">
-    <img height="120" src="https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=radical&title=MultiLanguage&no-frame=true" alt="Experience">
-    <img height="120" src="https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=radical&title=Commits&no-frame=true" alt="Commits" />
-    <img height="120" src="https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=radical&title=Repositories&no-frame=true" alt="Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=radical&no-frame=true&margin-w=10&title=MultiLanguage,Experience,Commits,Repositories&row=1" alt="ShehabGamal's Trophies" />
 </p>
 
 <br>
