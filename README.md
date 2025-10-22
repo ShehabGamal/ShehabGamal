@@ -48,15 +48,9 @@ I am passionate about building clean, efficient, and user-friendly web applicati
 </p>
 
 <p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=radical&title=MultiLanguage,Experience&no-frame=true&margin-w=15&margin-h=15" alt="ShehabGamal's Experience">
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=radical&rank=-?&title=Commits&no-frame=true" alt="ShehabGamal's Commits" />
-</p>
-
-<p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=radical&rank=-?&title=Repositories&no-frame=true" alt="ShehabGamal's Repositories" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=radical&title=MultiLanguage,Experience&no-frame=true&margin-w=15&margin-h=15" alt="ShehabGamal's Experience">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=radical&rank=-?&title=Commits&no-frame=true" alt="ShehabGamal's Commits" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ShehabGamal&theme=radical&rank=-?&title=Repositories&no-frame=true" alt="ShehabGamal's Repositories" />
 </p>
 
 <br>
